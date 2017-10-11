@@ -1,3 +1,7 @@
+// adding test comment
+
+// success???
+
 var meanFinder = function(arrayOfTimes) {
   var sum = 0;
   var meanAndMode = [];
